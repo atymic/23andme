@@ -1,4 +1,5 @@
 <?php
+
 namespace SocialiteProviders\TwentyThreeAndMe;
 
 use SocialiteProviders\Manager\SocialiteWasCalled;
